@@ -1,6 +1,7 @@
 //REACT
 import React from 'react';
 import './css/App.css';
+import TrumpPic from './img/trump.jpeg'
 
 //LIBRARIES
 import Axios from 'axios';
@@ -26,6 +27,8 @@ class App extends React.Component {
   loadThought = () => {
     Axios.get(TrumpThinkUrl)
       .then(resp => {
+        console.log(resp);
+        
         this.setState({
           thought: resp.data.message
         });
@@ -48,9 +51,9 @@ class App extends React.Component {
       <div className="App">
         <Header title='What does trump think?'></Header>
 
-        <TrumpThink  thought={this.state.thought}/>
+        <TrumpThink  thought={this.state.thought} trumpPic={TrumpPic}/>
 
-        <Footer copyright='@ All rights reserved. Carlos Micó 2019'/>
+        <Footer copyright='© All rights reserved. Carlos Micó 2019'/>
       </div>
     );
   }
