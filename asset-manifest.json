@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/carlosmico/WhatDoesTrumpThink/static/css/main.565c18aa.chunk.css",
-    "main.js": "/carlosmico/WhatDoesTrumpThink/static/js/main.e263d409.chunk.js",
-    "main.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/main.e263d409.chunk.js.map",
+    "main.css": "/carlosmico/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css",
+    "main.js": "/carlosmico/WhatDoesTrumpThink/static/js/main.6cda1fcf.chunk.js",
+    "main.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/main.6cda1fcf.chunk.js.map",
     "runtime~main.js": "/carlosmico/WhatDoesTrumpThink/static/js/runtime~main.1bcc58e9.js",
     "runtime~main.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/runtime~main.1bcc58e9.js.map",
-    "static/js/2.b2ca986f.chunk.js": "/carlosmico/WhatDoesTrumpThink/static/js/2.b2ca986f.chunk.js",
-    "static/js/2.b2ca986f.chunk.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/2.b2ca986f.chunk.js.map",
+    "static/js/2.cd77abba.chunk.js": "/carlosmico/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js",
+    "static/js/2.cd77abba.chunk.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js.map",
     "index.html": "/carlosmico/WhatDoesTrumpThink/index.html",
-    "precache-manifest.e9c58976db0e5aa67e0f2bbcbfd4f3dd.js": "/carlosmico/WhatDoesTrumpThink/precache-manifest.e9c58976db0e5aa67e0f2bbcbfd4f3dd.js",
+    "precache-manifest.353944ee91485098a3646639e8490af8.js": "/carlosmico/WhatDoesTrumpThink/precache-manifest.353944ee91485098a3646639e8490af8.js",
     "service-worker.js": "/carlosmico/WhatDoesTrumpThink/service-worker.js",
-    "static/css/main.565c18aa.chunk.css.map": "/carlosmico/WhatDoesTrumpThink/static/css/main.565c18aa.chunk.css.map"
+    "static/css/main.c95a8dd3.chunk.css.map": "/carlosmico/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css.map",
+    "static/media/trump.jpeg": "/carlosmico/WhatDoesTrumpThink/static/media/trump.bb7b2b94.jpeg"
   }
 }
