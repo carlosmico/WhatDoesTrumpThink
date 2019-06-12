@@ -3,6 +3,7 @@
     align-self: center;
     margin-top: 3em;
     margin-bottom: 3em;
+    min-height: 65vh;
 }
 
 @media(max-width: 900px){
