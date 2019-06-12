@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e46008362302e6a33421cc24f11a4d69",
+    "revision": "a8c93cd3cba843a4d19c01f451628a3b",
     "url": "/WhatDoesTrumpThink/index.html"
   },
   {
-    "revision": "e3503cc0b54182ed7bae",
-    "url": "/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css"
+    "revision": "5f2b80037d35d488cf13",
+    "url": "/WhatDoesTrumpThink/static/css/main.abd7c363.chunk.css"
   },
   {
     "revision": "634d66ad4133342b73c4",
     "url": "/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js"
   },
   {
-    "revision": "e3503cc0b54182ed7bae",
+    "revision": "5f2b80037d35d488cf13",
     "url": "/WhatDoesTrumpThink/static/js/main.4fc27c5f.chunk.js"
   },
   {
