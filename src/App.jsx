@@ -53,7 +53,7 @@ class App extends React.Component {
 
         <TrumpThink  thought={this.state.thought} trumpPic={TrumpPic}/>
 
-        <Footer copyright='© All rights reserved. Carlos Micó 2019'/>
+        {/* <Footer copyright='© All rights reserved. Carlos Micó 2019'/> */}
       </div>
     );
   }
