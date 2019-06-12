@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carlosmico/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css",
-    "main.js": "/carlosmico/WhatDoesTrumpThink/static/js/main.6cda1fcf.chunk.js",
-    "main.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/main.6cda1fcf.chunk.js.map",
-    "runtime~main.js": "/carlosmico/WhatDoesTrumpThink/static/js/runtime~main.1bcc58e9.js",
-    "runtime~main.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/runtime~main.1bcc58e9.js.map",
-    "static/js/2.cd77abba.chunk.js": "/carlosmico/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js",
-    "static/js/2.cd77abba.chunk.js.map": "/carlosmico/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js.map",
-    "index.html": "/carlosmico/WhatDoesTrumpThink/index.html",
-    "precache-manifest.353944ee91485098a3646639e8490af8.js": "/carlosmico/WhatDoesTrumpThink/precache-manifest.353944ee91485098a3646639e8490af8.js",
-    "service-worker.js": "/carlosmico/WhatDoesTrumpThink/service-worker.js",
-    "static/css/main.c95a8dd3.chunk.css.map": "/carlosmico/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css.map",
-    "static/media/trump.jpeg": "/carlosmico/WhatDoesTrumpThink/static/media/trump.bb7b2b94.jpeg"
+    "main.css": "/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css",
+    "main.js": "/WhatDoesTrumpThink/static/js/main.4fc27c5f.chunk.js",
+    "main.js.map": "/WhatDoesTrumpThink/static/js/main.4fc27c5f.chunk.js.map",
+    "runtime~main.js": "/WhatDoesTrumpThink/static/js/runtime~main.b35b0a63.js",
+    "runtime~main.js.map": "/WhatDoesTrumpThink/static/js/runtime~main.b35b0a63.js.map",
+    "static/js/2.cd77abba.chunk.js": "/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js",
+    "static/js/2.cd77abba.chunk.js.map": "/WhatDoesTrumpThink/static/js/2.cd77abba.chunk.js.map",
+    "index.html": "/WhatDoesTrumpThink/index.html",
+    "precache-manifest.de6ff6916e85e012c5b9be25be9cd768.js": "/WhatDoesTrumpThink/precache-manifest.de6ff6916e85e012c5b9be25be9cd768.js",
+    "service-worker.js": "/WhatDoesTrumpThink/service-worker.js",
+    "static/css/main.c95a8dd3.chunk.css.map": "/WhatDoesTrumpThink/static/css/main.c95a8dd3.chunk.css.map",
+    "static/media/trump.jpeg": "/WhatDoesTrumpThink/static/media/trump.bb7b2b94.jpeg"
   }
 }
