@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WhatDoesTrumpThink/precache-manifest.2b14fde252934349a2f9bda8337c623d.js"
+  "/WhatDoesTrumpThink/precache-manifest.56edcc2ab686ac0fa929761e26d4f91b.js"
 );
 
 self.addEventListener('message', (event) => {
